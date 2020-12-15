@@ -1,0 +1,8 @@
+easy_admin:
+    entities:
+        #List the Entity
+        - App\Entity\Genre
+        - App\Entity\Nationalite
+        - App\Entity\Auteur
+        - App\Entity\Editeur
+        - App\Entity\Livre
